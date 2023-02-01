@@ -1,4 +1,4 @@
-# DO2_LinuxNetwork
+# LinuxNetwork
 
 Настройка сетей в Linux на виртуальных машинах(DHCP,NAT,SSH)
 
